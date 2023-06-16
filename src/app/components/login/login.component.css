@@ -1,0 +1,29 @@
+.body{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+    background-image: linear-gradient(to top, #3524cc 0%, #b1d6f4 100%);
+        position: relative;
+  
+}
+
+.login{
+    width: 100%;
+    max-width: 330px;
+    text-align: center;
+    background-image: linear-gradient(to top, #9890e3 0%, #b1f4cf 100%);
+        position: relative;
+  border-radius: 10px;
+}
+
+.ancho{
+    width: 100%;
+}
+.botton{
+    padding: auto;
+}
+.spinner{
+margin: 0 auto;
+}
+
